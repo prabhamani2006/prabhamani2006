@@ -5,7 +5,7 @@ I'm currently pursuing a B.E. in Computer Science and Engineering at The Nationa
 [![](https://komarev.com/ghpvc/?username=prabhamani2006&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![LinkedIn]](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 (https://linkedin.com/in/Prabhamani R) 
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhamanir68@gmail.com) 
